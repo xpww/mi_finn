@@ -69,3 +69,4 @@ We previously released an early-stage prototype of a toolflow that took in Caffe
 Please be aware that this version is deprecated and unsupported, and the master branch does not share history with that branch so it should be treated as a separate repository for all purposes.
 # mi_finn
 # mi_finn
+# mi_finn
